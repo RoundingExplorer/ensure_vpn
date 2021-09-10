@@ -14,6 +14,7 @@ from .providers import (
     ProtonVPN,
     SurfsharkVPN,
     VyprVPN,
+    VeePN
 )
 
 providers = [
@@ -29,6 +30,7 @@ providers = [
     ProtonVPN,
     SurfsharkVPN,
     VyprVPN,
+    VeePN
 ]
 
 
